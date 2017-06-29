@@ -8,4 +8,4 @@ RMI¡¢webservice¡¢IBMµÄMQ¡¢redis¡¢FineReport¡¢·â×°¼¼Êõ¡¢¼ÓÃÜ¼¼Êõ¡¢ÅúÁ¿±£´æ¡¢·´Éä¡
 2.IBM MQÖÐ¼ä¼þ
 3.redis µ¥µãµÇÂ¼ £º Í¬Ò»Ê±¼ä ÏÞÖÆÍ¬Ò»ÕË»§Ö»ÄÜµÇÂ¼Ò»´Î
 4.fineReport ±¨±í¹ÜÀí¹¤¾ß
-
+5.redis Æô¶¯±£´æÊôÐÔ¶ÔÏó(Í³Ò»ÈÏÖ¤Æ½Ì¨)
